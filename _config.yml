@@ -19,8 +19,8 @@ locale                   : "zh-CN"
 title                    : "侯政旭写字的地方"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "侯政旭"
-description              : ""
+name                     : "歇白"
+description              : "世界不存在唯一的现实"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "歇白"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "有一天我做了个梦，梦见雪山上的一点墨色，叫它歇白"
+  location         : "德国"
   email            :
   links:
     - label: "Email"
